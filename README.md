@@ -1,6 +1,7 @@
 # ISS-Overhead
 🚀 Tracking the ISS with Python! 🌍🔭
-While exploring free APIs, I came across the International Space Station (ISS) tracking API and thought—why not build something cool? So, I created a Python script that notifies me via email when the ISS is passing overhead at night! ✉️✨
+While exploring free APIs, I came across the International Space Station (ISS) tracking API and thought—why not build something cool? 
+So, I created a Python script that notifies me via email when the ISS is passing overhead at night! ✉️✨
 What this project does:
 ✅ Fetches real-time ISS location using Open Notify’s ISS API
  ✅ Retrieves sunrise & sunset times for my location using Sunrise-Sunset API
